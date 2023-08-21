@@ -1,4 +1,4 @@
-#Repository for Volatility Prediction in my UCL Dissertation
+## Repository for Volatility Prediction in my UCL Dissertation
 
 Welcome to the repository dedicated to showcasing the code and data related to volatility prediction, a fundamental aspect of my master's degree dissertation at UCL.
 
